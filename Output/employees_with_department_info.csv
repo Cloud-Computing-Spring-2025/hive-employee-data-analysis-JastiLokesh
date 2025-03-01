@@ -1,0 +1,1001 @@
+e.emp_id,e.name,e.job_role,e.salary,d.department_name,d.location
+7,Alexandra Harris,Developer,88439.0,Finance,Chicago
+9,Jordan Wilson,Analyst,46869.79,Finance,Chicago
+10,James Wright,Engineer,122584.26,Finance,Chicago
+11,Justin Calhoun,Manager,122775.98,Finance,Chicago
+13,Benjamin Rodriguez,Consultant,58699.67,Finance,Chicago
+18,William Taylor,Developer,84772.77,Finance,Chicago
+24,Bonnie Wilson,Manager,74271.39,Finance,Chicago
+37,Colleen Hanson,Analyst,122550.4,Finance,Chicago
+45,Thomas Hester,Consultant,70787.88,Finance,Chicago
+59,Melissa Donaldson,Analyst,136798.02,Finance,Chicago
+63,Jacob Sparks,Manager,98240.99,Finance,Chicago
+69,Melanie Mcdowell,Consultant,139284.14,Finance,Chicago
+71,Beverly Stevenson,Developer,135918.77,Finance,Chicago
+72,Elizabeth Simon,Engineer,139333.67,Finance,Chicago
+74,Gwendolyn Wiggins,Manager,141987.08,Finance,Chicago
+77,Christopher Castillo,Manager,132692.62,Finance,Chicago
+81,Laurie Robertson,Analyst,132606.48,Finance,Chicago
+91,Wendy Doyle,Manager,94155.2,Finance,Chicago
+101,Jessica Baldwin,Developer,96892.3,Finance,Chicago
+106,Thomas Jones,Manager,93478.52,Finance,Chicago
+107,Julia Foster,Manager,50757.16,Finance,Chicago
+109,Daniel Garcia,Consultant,79394.04,Finance,Chicago
+116,Renee Quinn,Developer,96343.3,Finance,Chicago
+121,Ashley Burke,Developer,74290.74,Finance,Chicago
+124,Katherine Barton,Consultant,48997.58,Finance,Chicago
+126,James Gallegos,Developer,104549.75,Finance,Chicago
+127,Robert Gibson,Engineer,62765.86,Finance,Chicago
+130,Mark Anderson,Engineer,97175.73,Finance,Chicago
+131,Stephanie Herring,Manager,42923.37,Finance,Chicago
+135,Kevin Ward,Developer,145667.19,Finance,Chicago
+141,Anthony Hoffman,Analyst,117850.27,Finance,Chicago
+145,Sean Cox,Manager,120516.62,Finance,Chicago
+147,Jessica Hull,Manager,100164.15,Finance,Chicago
+149,Pamela May,Analyst,46947.62,Finance,Chicago
+152,Michele Johnson,Analyst,76826.01,Finance,Chicago
+154,Michael Martin,Consultant,59083.4,Finance,Chicago
+158,Timothy Flores,Analyst,108801.03,Finance,Chicago
+159,Darryl Flynn,Developer,117932.35,Finance,Chicago
+163,Anthony Vasquez,Developer,43804.35,Finance,Chicago
+168,Audrey Fitzpatrick,Consultant,146298.16,Finance,Chicago
+170,Lori Cortez DDS,Manager,72084.7,Finance,Chicago
+173,John Norman,Analyst,56839.48,Finance,Chicago
+176,Dana Carpenter,Manager,112201.03,Finance,Chicago
+179,Wanda Carrillo,Analyst,85188.94,Finance,Chicago
+182,Victoria Norris,Analyst,91195.63,Finance,Chicago
+184,Shawn Johnson,Engineer,93839.86,Finance,Chicago
+187,Christina Garza,Developer,74072.01,Finance,Chicago
+197,Miss Karen Larson MD,Consultant,65533.58,Finance,Chicago
+207,Cheryl Williams,Developer,48537.66,Finance,Chicago
+209,Kimberly Miller,Engineer,143561.31,Finance,Chicago
+210,Carmen Moran,Developer,90609.12,Finance,Chicago
+215,Wayne Harris,Consultant,75634.79,Finance,Chicago
+219,Jason Neal,Developer,109260.12,Finance,Chicago
+222,Ashley Ellison,Analyst,91018.93,Finance,Chicago
+224,Sean Miller,Developer,147585.98,Finance,Chicago
+227,Jenna Kennedy,Consultant,54951.17,Finance,Chicago
+228,Paul Galloway,Developer,104740.45,Finance,Chicago
+231,David Navarro,Manager,145335.81,Finance,Chicago
+247,Jeremy Cortez,Developer,110938.61,Finance,Chicago
+253,Cynthia Fischer,Engineer,79106.0,Finance,Chicago
+254,Kevin Wong,Engineer,60311.48,Finance,Chicago
+260,Daniel Martin,Manager,119742.82,Finance,Chicago
+267,Linda Butler,Engineer,100518.12,Finance,Chicago
+276,Alexis Maynard,Analyst,94788.75,Finance,Chicago
+285,Brett Bell,Analyst,81637.33,Finance,Chicago
+287,Tiffany Hart,Consultant,56872.01,Finance,Chicago
+289,Andrew Stark,Engineer,145783.52,Finance,Chicago
+293,Rebecca Blankenship,Engineer,147520.92,Finance,Chicago
+306,Kelly Weber,Analyst,149707.45,Finance,Chicago
+307,Tracy Higgins,Consultant,135075.9,Finance,Chicago
+309,Nicholas Kane,Developer,122098.31,Finance,Chicago
+319,Diane Barry,Analyst,110483.42,Finance,Chicago
+328,Juan Sanchez,Analyst,53728.65,Finance,Chicago
+330,Mitchell Williams,Engineer,66475.31,Finance,Chicago
+342,Mary Harris,Developer,52582.24,Finance,Chicago
+350,Joshua Hansen,Analyst,53008.76,Finance,Chicago
+351,Janet Mcdonald,Developer,139833.06,Finance,Chicago
+362,Kim Leach,Consultant,79629.51,Finance,Chicago
+363,Rebecca Moore,Manager,141133.06,Finance,Chicago
+365,Mrs. Paula Wright PhD,Analyst,52624.0,Finance,Chicago
+368,Colton Jones,Analyst,53031.45,Finance,Chicago
+370,Brian Nelson,Engineer,127605.08,Finance,Chicago
+373,Alexis Wiggins,Developer,146369.77,Finance,Chicago
+394,Vicki Hood,Manager,64918.75,Finance,Chicago
+398,Robert Rivera,Analyst,108203.92,Finance,Chicago
+401,William Young,Developer,74063.58,Finance,Chicago
+402,Stephanie Walters,Developer,53180.45,Finance,Chicago
+403,Norman Roberts,Manager,41455.27,Finance,Chicago
+406,Matthew Romero,Engineer,42059.0,Finance,Chicago
+415,Richard Montgomery,Developer,72973.14,Finance,Chicago
+419,Brendan Davis,Analyst,63481.94,Finance,Chicago
+421,Tristan Thomas,Analyst,86285.23,Finance,Chicago
+435,Mark Rodriguez MD,Consultant,50351.47,Finance,Chicago
+438,Rhonda Ramsey,Consultant,140685.47,Finance,Chicago
+449,Jacob Horton,Developer,99445.61,Finance,Chicago
+469,Daniel Williams,Consultant,137453.16,Finance,Chicago
+476,Laura Munoz,Developer,87675.77,Finance,Chicago
+477,Theresa Johnson,Analyst,148784.86,Finance,Chicago
+480,Monica Castro,Consultant,65716.66,Finance,Chicago
+493,Barbara Jackson,Consultant,77241.11,Finance,Chicago
+502,Daniel Brown,Consultant,100415.76,Finance,Chicago
+509,Jacob Baker,Manager,103514.33,Finance,Chicago
+515,Amy Bautista,Engineer,130720.07,Finance,Chicago
+516,Megan Thomas,Developer,61461.04,Finance,Chicago
+523,Paul Martinez,Manager,143248.45,Finance,Chicago
+547,Joseph Thompson,Manager,76591.9,Finance,Chicago
+550,Kelly Mccoy,Engineer,104002.5,Finance,Chicago
+554,Timothy Salazar,Developer,56962.47,Finance,Chicago
+560,Susan George,Developer,46810.26,Finance,Chicago
+562,Brady Cook,Consultant,41060.44,Finance,Chicago
+573,Christina Jordan,Analyst,147233.77,Finance,Chicago
+578,James Price,Manager,71199.65,Finance,Chicago
+580,Lauren Davis,Engineer,92993.03,Finance,Chicago
+591,Michael Melton,Developer,110409.91,Finance,Chicago
+592,Latoya Landry,Developer,116957.36,Finance,Chicago
+597,Tamara Miller,Engineer,119183.09,Finance,Chicago
+602,Dr. Tanner Henderson,Developer,57717.42,Finance,Chicago
+603,Amber Solomon,Developer,42192.65,Finance,Chicago
+607,Cindy Clark,Consultant,135664.27,Finance,Chicago
+608,Damon Stone,Manager,58078.21,Finance,Chicago
+609,Bradley Oliver,Consultant,149303.02,Finance,Chicago
+611,Christopher Taylor,Consultant,84358.2,Finance,Chicago
+616,Pamela Caldwell,Engineer,115528.92,Finance,Chicago
+630,Mark Brooks,Engineer,125101.11,Finance,Chicago
+638,Joel Rodriguez,Developer,147456.95,Finance,Chicago
+639,Maria Johnson,Developer,146543.44,Finance,Chicago
+642,Shelby Stein,Analyst,68333.99,Finance,Chicago
+643,Maurice Scott,Developer,120291.58,Finance,Chicago
+644,Shawn Castillo,Developer,63009.64,Finance,Chicago
+651,Ashley Watts,Analyst,89011.12,Finance,Chicago
+661,Frances Mercado,Developer,137117.42,Finance,Chicago
+664,Wanda Wilson,Engineer,115407.58,Finance,Chicago
+665,Rita Johnston,Manager,88688.59,Finance,Chicago
+674,David Martinez,Manager,127843.37,Finance,Chicago
+677,Karen Flores,Analyst,72688.7,Finance,Chicago
+681,John Horton,Consultant,72195.04,Finance,Chicago
+687,Susan Gomez,Analyst,148959.83,Finance,Chicago
+688,Tina James,Developer,67096.08,Finance,Chicago
+700,Eugene Blair,Analyst,116654.56,Finance,Chicago
+701,Paul Carrillo,Engineer,132995.58,Finance,Chicago
+705,Michael Smith,Developer,147513.95,Finance,Chicago
+710,Logan Houston,Manager,80380.31,Finance,Chicago
+725,Timothy Grant,Analyst,82953.97,Finance,Chicago
+727,Eric Wheeler,Consultant,93278.15,Finance,Chicago
+734,Jose Martinez,Engineer,100737.88,Finance,Chicago
+737,Jonathan English,Engineer,43835.5,Finance,Chicago
+741,Noah Smith,Developer,127384.41,Finance,Chicago
+744,Laura Matthews,Manager,88380.17,Finance,Chicago
+750,Emily Morris,Consultant,53370.86,Finance,Chicago
+756,Sharon Martinez,Analyst,96764.98,Finance,Chicago
+757,Gregory Parsons,Analyst,65166.6,Finance,Chicago
+760,Dawn Boyd,Manager,97030.53,Finance,Chicago
+763,Jeffrey Olson,Engineer,43212.56,Finance,Chicago
+767,Ryan Mcguire,Consultant,59831.9,Finance,Chicago
+770,Christopher Sawyer,Manager,92257.76,Finance,Chicago
+788,Jason Rodriguez,Developer,100542.92,Finance,Chicago
+793,Adam Gomez,Consultant,55362.4,Finance,Chicago
+796,Cindy Robinson,Engineer,50713.62,Finance,Chicago
+798,Debbie Gray,Analyst,149471.44,Finance,Chicago
+799,Robert Perry,Analyst,113610.8,Finance,Chicago
+801,Jacqueline Gonzalez,Consultant,63059.04,Finance,Chicago
+802,Samuel Miller,Engineer,84626.06,Finance,Chicago
+808,Julie Hull,Developer,67098.21,Finance,Chicago
+809,Elizabeth Koch,Manager,43059.28,Finance,Chicago
+811,Anthony Anderson,Consultant,79784.7,Finance,Chicago
+813,Catherine King,Consultant,54064.68,Finance,Chicago
+815,Jordan Oliver,Analyst,100161.09,Finance,Chicago
+825,James Peterson,Consultant,134006.52,Finance,Chicago
+832,Brenda Hill,Developer,67009.61,Finance,Chicago
+833,Angela Davis,Engineer,120069.14,Finance,Chicago
+837,Steven Charles,Manager,75635.09,Finance,Chicago
+849,Latoya Fernandez,Developer,44947.13,Finance,Chicago
+854,William Diaz,Consultant,143437.48,Finance,Chicago
+870,Charles Rangel,Manager,146505.67,Finance,Chicago
+874,Richard Brown,Manager,75780.47,Finance,Chicago
+881,Tracy Townsend,Manager,130588.28,Finance,Chicago
+887,Samantha Davis,Manager,115280.11,Finance,Chicago
+903,Brandon Patel,Analyst,63432.31,Finance,Chicago
+908,Dalton Davis,Consultant,63939.55,Finance,Chicago
+910,Dana Anderson,Analyst,125160.16,Finance,Chicago
+918,Matthew Evans,Manager,138769.12,Finance,Chicago
+920,Monica Johnson,Analyst,94085.36,Finance,Chicago
+924,Amy Rodriguez,Manager,113027.49,Finance,Chicago
+926,Dawn Johnson,Developer,72553.79,Finance,Chicago
+929,Joseph Schroeder,Consultant,102353.01,Finance,Chicago
+932,David Perez,Manager,64523.48,Finance,Chicago
+936,Ryan Nunez,Consultant,108732.75,Finance,Chicago
+940,Cody Mcfarland,Developer,103044.29,Finance,Chicago
+947,Nicholas Taylor,Analyst,57019.99,Finance,Chicago
+952,Neil Hunt,Analyst,67980.27,Finance,Chicago
+959,Steven Hendrix,Analyst,81565.22,Finance,Chicago
+967,Summer Ali,Engineer,138101.06,Finance,Chicago
+969,Mark Casey,Engineer,74262.16,Finance,Chicago
+974,Steven Frederick,Developer,45633.37,Finance,Chicago
+976,Jeffrey Castillo,Manager,149613.81,Finance,Chicago
+984,Mary Russo,Manager,50340.44,Finance,Chicago
+986,Ashley Jackson,Consultant,144794.05,Finance,Chicago
+991,Michael Morrison,Developer,49752.66,Finance,Chicago
+994,Steven Wilcox,Engineer,56844.52,Finance,Chicago
+996,Michele Obrien,Engineer,100661.2,Finance,Chicago
+4,Jordan Dean,Consultant,69211.43,HR,New York
+5,Tom Hart,Manager,125253.74,HR,New York
+16,Andrea Duffy,Engineer,136842.48,HR,New York
+19,Jenny Schmitt,Manager,60820.3,HR,New York
+26,Lisa Molina,Analyst,78853.88,HR,New York
+30,Gregory Brown,Engineer,148323.7,HR,New York
+35,Jose Shaw,Analyst,130801.9,HR,New York
+36,John Gray,Manager,59921.05,HR,New York
+41,Kimberly Ritter,Developer,77943.92,HR,New York
+47,Kathleen Armstrong,Developer,48731.23,HR,New York
+53,Mr. Justin Garcia,Engineer,97882.86,HR,New York
+60,Zachary Stephens,Consultant,113619.31,HR,New York
+62,Natalie Rivera,Analyst,94603.54,HR,New York
+65,George Neal,Consultant,142513.83,HR,New York
+68,Tim Thomas,Engineer,48312.63,HR,New York
+73,Megan Ramos,Engineer,95597.78,HR,New York
+78,Jesse Jackson,Developer,117432.18,HR,New York
+85,David Mcbride,Analyst,62832.93,HR,New York
+88,Sarah Tyler,Consultant,54858.49,HR,New York
+89,David Rogers,Engineer,57912.13,HR,New York
+92,Denise Waters,Engineer,89182.48,HR,New York
+97,Stephanie Carter,Manager,124430.39,HR,New York
+100,Joshua Hernandez,Analyst,47927.55,HR,New York
+122,Emily Cervantes,Consultant,82581.35,HR,New York
+128,Richard Yang,Engineer,58543.56,HR,New York
+129,Laura Brown,Engineer,134286.78,HR,New York
+132,Eric Harris,Engineer,106303.57,HR,New York
+133,Kimberly Ramirez,Developer,141440.1,HR,New York
+137,Craig Moore,Developer,99885.43,HR,New York
+140,James Hawkins,Developer,140037.94,HR,New York
+143,Rebecca Carter,Developer,64090.59,HR,New York
+155,Christina Erickson,Developer,129088.92,HR,New York
+164,Angela Carter,Developer,103247.61,HR,New York
+167,Christopher Howard,Engineer,129730.32,HR,New York
+186,Rachel Gonzalez,Engineer,83544.93,HR,New York
+208,Sarah Barrett,Consultant,79360.66,HR,New York
+212,Robert West,Analyst,104538.37,HR,New York
+213,Mariah Wilkinson MD,Analyst,128020.36,HR,New York
+214,Joshua Fitzgerald,Engineer,118567.19,HR,New York
+218,Jennifer Mcbride,Manager,138197.78,HR,New York
+225,Jennifer Riggs,Engineer,81705.51,HR,New York
+226,Elizabeth Wagner,Engineer,121559.54,HR,New York
+233,Carl Fisher,Engineer,95835.87,HR,New York
+234,Rhonda Jones,Manager,148521.95,HR,New York
+235,Rodney Aguilar,Developer,144413.9,HR,New York
+236,Jason Garcia,Developer,129472.33,HR,New York
+237,Kathryn Johnson,Manager,120162.58,HR,New York
+238,Julia Hammond,Consultant,139263.28,HR,New York
+239,Alexandra George,Analyst,142086.17,HR,New York
+241,Michael Clements,Consultant,53577.93,HR,New York
+243,Regina Nicholson,Manager,79226.2,HR,New York
+245,Anthony Mckenzie,Developer,75304.74,HR,New York
+250,Shane Davis,Developer,138616.64,HR,New York
+255,Andrew Forbes,Analyst,124688.88,HR,New York
+263,Alan Taylor,Analyst,55320.85,HR,New York
+266,Jessica Chavez,Analyst,123700.48,HR,New York
+280,David Miller,Engineer,51861.62,HR,New York
+282,Edward Jenkins,Manager,94819.25,HR,New York
+291,Anthony Evans,Developer,114057.8,HR,New York
+300,Charles Meyer,Engineer,50390.67,HR,New York
+301,Andrea Washington,Engineer,132643.44,HR,New York
+303,Bonnie Berger,Engineer,44084.84,HR,New York
+313,Robert Hernandez,Engineer,119851.65,HR,New York
+324,Corey Bates,Analyst,103966.31,HR,New York
+327,Patrick Watson,Developer,95891.84,HR,New York
+333,Brittany Harper,Developer,78681.44,HR,New York
+336,Laura Cervantes,Analyst,57325.37,HR,New York
+337,Edward Simon,Manager,64627.85,HR,New York
+339,Kathy Harrell,Engineer,135861.12,HR,New York
+347,Felicia Martin,Consultant,103513.37,HR,New York
+349,Lauren Thomas,Engineer,131316.47,HR,New York
+353,Micheal Cisneros,Manager,105743.89,HR,New York
+356,Pamela Thomas,Analyst,147578.0,HR,New York
+360,Julie Martin,Consultant,135019.45,HR,New York
+369,Alicia Sullivan,Consultant,115735.68,HR,New York
+374,Courtney Brown,Manager,41702.68,HR,New York
+378,Justin Howard,Consultant,115896.16,HR,New York
+383,Alicia Santiago,Consultant,44745.5,HR,New York
+386,Jill Graham,Manager,123625.83,HR,New York
+387,Ryan Alexander,Developer,105729.17,HR,New York
+389,Robert Andrews,Analyst,118030.92,HR,New York
+391,Danielle Pierce,Engineer,142621.56,HR,New York
+393,Cynthia Durham,Developer,138460.19,HR,New York
+399,Dr. Sandra Wallace,Analyst,74284.38,HR,New York
+404,Paul Reynolds,Manager,117464.58,HR,New York
+405,Ryan Bentley,Manager,78413.9,HR,New York
+407,Darrell Ray,Manager,70415.58,HR,New York
+410,Nicholas Floyd,Engineer,111768.03,HR,New York
+418,Rachel Hill,Analyst,83108.15,HR,New York
+423,Edward Fisher III,Analyst,83987.25,HR,New York
+426,Elizabeth Powell,Developer,145625.8,HR,New York
+430,Jeanette Bradford,Developer,79787.69,HR,New York
+433,Thomas Hernandez,Engineer,48426.25,HR,New York
+440,Heather Ferguson,Analyst,75119.41,HR,New York
+441,David Perkins,Analyst,74052.17,HR,New York
+461,Laura Briggs,Consultant,95578.02,HR,New York
+465,Amber Williams,Consultant,92451.03,HR,New York
+468,Brett Merritt,Manager,79873.81,HR,New York
+470,Haley Mcclure,Developer,120083.67,HR,New York
+487,David Smith,Engineer,123386.55,HR,New York
+488,Peter Faulkner,Manager,70412.82,HR,New York
+497,Jessica Coleman,Consultant,124564.26,HR,New York
+513,Elizabeth Glover,Manager,44944.23,HR,New York
+514,Theresa Solis,Analyst,108574.69,HR,New York
+518,Ian Miller,Engineer,124242.84,HR,New York
+524,Erika Haley,Developer,131411.7,HR,New York
+529,Patricia Cox,Manager,104162.13,HR,New York
+532,Lisa Hunter,Consultant,126113.28,HR,New York
+536,Daniel Anderson,Manager,97725.3,HR,New York
+540,Michael Schmidt,Consultant,69988.54,HR,New York
+545,Madison Moore,Engineer,112817.39,HR,New York
+561,Michael Thomas,Analyst,83886.21,HR,New York
+565,Brittany Moore,Manager,44357.54,HR,New York
+570,Samuel Andersen Jr.,Engineer,50119.27,HR,New York
+572,Miss Elizabeth Ball,Manager,94540.12,HR,New York
+574,Mr. David Bush,Manager,82631.11,HR,New York
+575,Jennifer Thompson,Consultant,66543.02,HR,New York
+582,Douglas Hudson,Manager,73019.19,HR,New York
+587,Paul Richardson,Manager,69456.9,HR,New York
+589,Jared Wade,Developer,40467.77,HR,New York
+593,Karen Manning,Engineer,147126.53,HR,New York
+596,Raymond Grant,Analyst,42933.24,HR,New York
+605,Michael Graham,Manager,110511.67,HR,New York
+617,Sheila Stanley,Developer,58717.8,HR,New York
+618,Cory Frazier,Developer,46967.12,HR,New York
+624,Alyssa Keith,Engineer,41063.6,HR,New York
+628,Joseph Combs,Engineer,96030.74,HR,New York
+631,Susan Rojas,Manager,49304.7,HR,New York
+632,Eric Bonilla,Developer,62243.53,HR,New York
+641,Robert Espinoza,Manager,128964.78,HR,New York
+653,Brandon Carroll,Consultant,75527.34,HR,New York
+654,Michael Hale,Consultant,94541.43,HR,New York
+656,Jeffrey Jones,Developer,144386.64,HR,New York
+663,Jennifer Cook,Engineer,101183.41,HR,New York
+668,Brandon Padilla,Manager,111299.11,HR,New York
+669,Claire Mullen,Manager,60177.3,HR,New York
+672,Linda Hahn,Engineer,83440.16,HR,New York
+673,Charles King,Analyst,67642.0,HR,New York
+675,Jason Edwards,Analyst,98087.44,HR,New York
+686,Jason Miller,Engineer,144136.4,HR,New York
+693,Richard Nelson,Engineer,49035.87,HR,New York
+708,Casey Fry,Developer,143304.69,HR,New York
+711,Emma Mullen,Developer,124213.98,HR,New York
+723,Jeremy Cunningham,Manager,90983.87,HR,New York
+752,Cody Anderson,Consultant,66599.34,HR,New York
+754,Patricia Smith,Analyst,44210.34,HR,New York
+762,Tina Watson,Engineer,73133.18,HR,New York
+764,Olivia Reed,Consultant,50366.38,HR,New York
+768,Carlos Klein,Engineer,60507.72,HR,New York
+773,Tiffany Kelly,Engineer,66278.83,HR,New York
+780,Allen Barnes,Analyst,83985.08,HR,New York
+783,Edward Chavez,Consultant,97778.09,HR,New York
+800,Bryan Peterson,Consultant,84043.08,HR,New York
+803,Laura Moreno,Analyst,94418.86,HR,New York
+804,Charles Davis,Engineer,58710.62,HR,New York
+806,Sandra Cisneros,Consultant,66177.29,HR,New York
+828,Sarah Hardy,Manager,100235.72,HR,New York
+834,Laura Reilly,Consultant,113641.79,HR,New York
+836,Gregg Matthews,Engineer,40026.62,HR,New York
+840,Joseph Holt,Manager,98512.17,HR,New York
+841,Samantha Miller,Analyst,87858.93,HR,New York
+842,Shaun Wilson,Developer,69903.35,HR,New York
+843,Lisa Rios,Analyst,78121.92,HR,New York
+860,Ashley Butler,Analyst,42105.12,HR,New York
+862,Angela Sheppard,Consultant,83495.67,HR,New York
+863,Mitchell Welch,Consultant,140037.66,HR,New York
+867,Evan Sanchez,Consultant,52203.26,HR,New York
+871,Veronica White,Consultant,69885.98,HR,New York
+877,Tristan Lopez,Consultant,122348.78,HR,New York
+878,Evelyn Smith,Analyst,111527.41,HR,New York
+894,Jeremy Warren,Engineer,128778.39,HR,New York
+898,Shannon Jordan,Manager,62184.71,HR,New York
+899,Miranda Kelly,Engineer,130775.29,HR,New York
+909,Jessica Lopez,Consultant,69707.33,HR,New York
+911,Nicholas Hutchinson,Consultant,43551.81,HR,New York
+913,Nichole Underwood,Analyst,50704.75,HR,New York
+915,Taylor Norris,Consultant,75394.32,HR,New York
+923,Brittany Wilson,Analyst,144613.69,HR,New York
+930,Jorge Hanson,Developer,71396.4,HR,New York
+931,Maria Hill,Developer,143574.38,HR,New York
+934,Mariah Burnett,Engineer,97579.58,HR,New York
+935,Denise Newman,Manager,47235.74,HR,New York
+937,Susan Orr,Engineer,50154.11,HR,New York
+942,Barbara Espinoza,Engineer,67804.98,HR,New York
+951,Thomas Black,Analyst,42350.03,HR,New York
+956,Heather Thompson,Engineer,77040.33,HR,New York
+961,Robert Odonnell,Manager,66683.35,HR,New York
+965,Dustin Horn,Analyst,48022.06,HR,New York
+971,Rhonda Ortega,Consultant,136131.7,HR,New York
+975,Roger Williams,Developer,93890.95,HR,New York
+977,Jeffrey Phillips,Developer,85615.17,HR,New York
+979,John Yoder,Manager,115850.15,HR,New York
+980,Kaitlyn Ball,Developer,99570.34,HR,New York
+990,Victor Hernandez,Manager,54222.04,HR,New York
+993,Daniel Porter,Manager,119733.2,HR,New York
+997,Brenda Cruz,Developer,83146.79,HR,New York
+6,Christopher Mendoza,Developer,128025.8,IT,San Francisco
+20,Kevin Wright,Consultant,128585.94,IT,San Francisco
+23,Lynn Perez,Manager,68030.17,IT,San Francisco
+33,Joseph Underwood,Analyst,136469.28,IT,San Francisco
+34,William Thomas,Manager,41601.88,IT,San Francisco
+38,Kathleen Rhodes,Consultant,53535.2,IT,San Francisco
+39,Nicole Roberts,Manager,78833.61,IT,San Francisco
+40,Rebecca Moody,Analyst,104091.68,IT,San Francisco
+49,Michael Jackson,Engineer,73742.77,IT,San Francisco
+50,Eugene Moore,Developer,63399.86,IT,San Francisco
+51,David Benson,Consultant,126945.91,IT,San Francisco
+54,Zachary Nelson,Developer,48696.09,IT,San Francisco
+56,Melissa Boyer,Developer,111658.32,IT,San Francisco
+58,Erica Taylor,Analyst,126485.3,IT,San Francisco
+64,Lori Navarro,Manager,149585.9,IT,San Francisco
+66,Paul Mclean,Manager,125201.37,IT,San Francisco
+70,Brian Thomas,Consultant,66433.64,IT,San Francisco
+75,Willie Richards,Consultant,43598.0,IT,San Francisco
+80,William Bartlett,Engineer,54948.68,IT,San Francisco
+87,Scott Harris,Engineer,141412.44,IT,San Francisco
+90,Nicole Ross,Consultant,103052.97,IT,San Francisco
+94,Michelle Obrien,Developer,118335.49,IT,San Francisco
+105,Austin Morris,Developer,117401.94,IT,San Francisco
+110,Kiara Richardson,Consultant,84905.26,IT,San Francisco
+112,Christopher Cook,Analyst,78734.17,IT,San Francisco
+113,Michelle Robinson,Engineer,134442.28,IT,San Francisco
+119,Becky Cain,Manager,125504.34,IT,San Francisco
+120,Brian Green,Manager,78065.81,IT,San Francisco
+125,Kendra Palmer,Consultant,75135.71,IT,San Francisco
+138,Holly Moore,Developer,126643.64,IT,San Francisco
+148,Andrea Rodriguez,Analyst,65615.23,IT,San Francisco
+153,Robert Garcia,Developer,60323.01,IT,San Francisco
+156,Dawn Huffman,Developer,146905.19,IT,San Francisco
+157,Logan Jones,Developer,129034.31,IT,San Francisco
+160,Alexandra Roman,Manager,81495.78,IT,San Francisco
+169,Eric Flores,Consultant,125097.9,IT,San Francisco
+172,Claudia Williams,Analyst,48304.47,IT,San Francisco
+174,Terri Lamb,Manager,108548.93,IT,San Francisco
+183,Leonard Perkins,Manager,52555.77,IT,San Francisco
+190,Jill Byrd,Analyst,136660.27,IT,San Francisco
+193,Rachel Richards,Manager,83815.86,IT,San Francisco
+195,Crystal Thomas,Consultant,118651.19,IT,San Francisco
+206,Patricia Martinez,Consultant,46236.1,IT,San Francisco
+230,Amber Macdonald,Manager,136387.7,IT,San Francisco
+240,Andrea Henderson,Developer,85290.77,IT,San Francisco
+246,Deborah Thomas,Analyst,140333.52,IT,San Francisco
+248,Linda Sandoval,Consultant,98795.61,IT,San Francisco
+251,Billy Palmer,Manager,147273.62,IT,San Francisco
+258,Holly Wright,Developer,53492.34,IT,San Francisco
+265,Michael Figueroa,Developer,46541.27,IT,San Francisco
+270,Christopher Anderson,Developer,77466.82,IT,San Francisco
+271,Albert Thompson,Engineer,77234.78,IT,San Francisco
+274,Marie Norman,Developer,130029.14,IT,San Francisco
+292,Craig Mosley,Analyst,141383.48,IT,San Francisco
+295,Michael Perry,Engineer,97285.25,IT,San Francisco
+296,Holly Solis,Analyst,52293.3,IT,San Francisco
+298,Carol Potter,Manager,58708.17,IT,San Francisco
+299,Robin Adams,Analyst,104023.51,IT,San Francisco
+302,Amanda Mcguire,Developer,115028.95,IT,San Francisco
+304,Richard Lewis,Consultant,45829.0,IT,San Francisco
+312,Dana Nunez,Consultant,142894.69,IT,San Francisco
+314,William Hall,Developer,110779.9,IT,San Francisco
+315,Brian Gibson,Engineer,115123.83,IT,San Francisco
+316,Kim Harrison,Manager,72089.15,IT,San Francisco
+318,Michelle Brown,Developer,56391.63,IT,San Francisco
+321,Kylie Hood,Developer,61897.27,IT,San Francisco
+322,Brendan Turner,Analyst,83571.43,IT,San Francisco
+334,Johnathan Mcgee,Manager,62544.33,IT,San Francisco
+343,Valerie Gibbs,Developer,52978.2,IT,San Francisco
+344,Stacey Clark,Engineer,53232.64,IT,San Francisco
+352,Billy Harris,Engineer,55646.99,IT,San Francisco
+359,Martha Schultz,Consultant,89675.69,IT,San Francisco
+364,Amy Washington,Manager,90909.18,IT,San Francisco
+366,Todd Odonnell,Analyst,95885.3,IT,San Francisco
+372,Tanya Rodgers,Engineer,106314.51,IT,San Francisco
+375,Cynthia Proctor,Engineer,86125.21,IT,San Francisco
+377,Tracy Brown,Analyst,74629.74,IT,San Francisco
+379,Raymond Payne,Analyst,129016.32,IT,San Francisco
+385,Patrick Le,Consultant,111650.36,IT,San Francisco
+395,Danielle Williams,Engineer,143742.6,IT,San Francisco
+400,Denise Jones,Consultant,40607.14,IT,San Francisco
+409,Robin French,Manager,55811.53,IT,San Francisco
+412,Joel Davis,Manager,145758.86,IT,San Francisco
+428,Amanda Dougherty,Consultant,102413.27,IT,San Francisco
+429,Joshua Lopez,Analyst,43356.97,IT,San Francisco
+434,Mark Martin,Engineer,105417.96,IT,San Francisco
+437,Jasmine Edwards,Manager,87751.81,IT,San Francisco
+443,Christopher Hart,Consultant,45334.77,IT,San Francisco
+447,Susan Jones,Developer,120947.98,IT,San Francisco
+452,Tamara Simmons,Consultant,129280.85,IT,San Francisco
+455,Eric Garcia,Developer,108710.52,IT,San Francisco
+458,Benjamin Clark,Engineer,75927.27,IT,San Francisco
+459,Gary Lawson,Engineer,70969.41,IT,San Francisco
+460,Cindy Stein,Engineer,134702.03,IT,San Francisco
+464,Melissa Moore,Analyst,69260.35,IT,San Francisco
+471,Marc Lowe,Analyst,80976.74,IT,San Francisco
+481,Wendy Castillo,Engineer,65870.85,IT,San Francisco
+483,Brendan Lara,Manager,98656.11,IT,San Francisco
+489,Gina Green,Engineer,100962.19,IT,San Francisco
+491,Andrew Weaver,Engineer,52210.56,IT,San Francisco
+495,Brian Walker,Analyst,65073.13,IT,San Francisco
+499,Robert Manning,Manager,67078.63,IT,San Francisco
+503,Louis Lynch,Analyst,81525.49,IT,San Francisco
+504,Laura Archer,Consultant,126756.75,IT,San Francisco
+505,Brooke Powers,Manager,142828.19,IT,San Francisco
+506,Pam Perez,Engineer,127063.26,IT,San Francisco
+510,Jordan Smith,Consultant,84832.56,IT,San Francisco
+512,Marcus Gutierrez,Analyst,113092.76,IT,San Francisco
+527,James Hammond,Analyst,43256.11,IT,San Francisco
+528,Heather Sutton,Consultant,132906.73,IT,San Francisco
+534,John Rosales,Manager,83264.33,IT,San Francisco
+538,Tony Patterson,Developer,60825.33,IT,San Francisco
+543,Mrs. Jennifer Blackwell,Developer,68601.49,IT,San Francisco
+544,Mary Evans,Consultant,108717.62,IT,San Francisco
+549,Catherine Guerra,Manager,51055.14,IT,San Francisco
+552,Brian Luna,Engineer,145303.11,IT,San Francisco
+558,Thomas Costa,Engineer,126039.92,IT,San Francisco
+563,Alan Bartlett,Manager,119269.58,IT,San Francisco
+567,Allen Miller,Analyst,41491.56,IT,San Francisco
+569,Corey Rios,Consultant,47715.7,IT,San Francisco
+576,Rebecca Martinez,Developer,79443.71,IT,San Francisco
+579,Stacy Browning,Engineer,92036.82,IT,San Francisco
+581,Sandra Washington,Consultant,63207.63,IT,San Francisco
+583,Brian Scott,Developer,76032.51,IT,San Francisco
+588,Sheryl Morgan,Analyst,102382.26,IT,San Francisco
+594,Madison Brown,Manager,94599.13,IT,San Francisco
+599,Melissa Smith,Consultant,91623.53,IT,San Francisco
+601,Jason Livingston,Engineer,130000.43,IT,San Francisco
+620,Curtis Holt,Analyst,87763.07,IT,San Francisco
+626,Timothy Figueroa,Consultant,81814.88,IT,San Francisco
+635,Douglas Stuart,Engineer,52469.53,IT,San Francisco
+636,Scott Harrison,Engineer,74859.13,IT,San Francisco
+640,Daniel Gomez,Engineer,91556.1,IT,San Francisco
+649,Henry Ryan,Manager,52522.02,IT,San Francisco
+652,Mr. Ryan Carter,Analyst,82007.8,IT,San Francisco
+660,Reginald Brown,Engineer,102312.87,IT,San Francisco
+678,Ann Ortiz,Analyst,68726.47,IT,San Francisco
+680,Antonio Brown,Developer,148214.7,IT,San Francisco
+682,Teresa Mccoy,Engineer,129666.25,IT,San Francisco
+684,Bobby Franklin,Engineer,128325.66,IT,San Francisco
+694,Rachael Schwartz,Consultant,43942.17,IT,San Francisco
+697,Henry Francis,Consultant,58176.04,IT,San Francisco
+699,Philip Christian,Analyst,142581.4,IT,San Francisco
+707,Robert Pollard,Manager,126945.21,IT,San Francisco
+715,Samantha Christensen,Developer,137305.8,IT,San Francisco
+719,Andrew Bell,Developer,79203.45,IT,San Francisco
+722,David Johnson,Manager,127749.66,IT,San Francisco
+738,Todd Vang,Engineer,120807.49,IT,San Francisco
+739,Cindy Rodriguez MD,Consultant,99923.96,IT,San Francisco
+743,Anthony Estrada Jr.,Engineer,134662.48,IT,San Francisco
+747,Michelle Allen,Consultant,71252.9,IT,San Francisco
+748,Jennifer Gibbs,Consultant,44851.25,IT,San Francisco
+751,Sandra Murphy,Manager,144385.95,IT,San Francisco
+755,Matthew Clarke,Manager,95635.61,IT,San Francisco
+765,Michele Palmer,Consultant,142786.89,IT,San Francisco
+776,Mary Castro,Developer,50138.89,IT,San Francisco
+777,Shelley Burton,Analyst,146210.88,IT,San Francisco
+779,Nicole Lane,Analyst,85224.37,IT,San Francisco
+785,Nicole Burton,Engineer,40047.79,IT,San Francisco
+787,Kimberly Jones,Consultant,49455.83,IT,San Francisco
+789,Valerie Moreno,Engineer,84831.03,IT,San Francisco
+790,Corey Lee,Manager,127927.52,IT,San Francisco
+791,Amy Randolph,Manager,116887.17,IT,San Francisco
+792,Timothy Hunt,Manager,77656.72,IT,San Francisco
+810,Melissa Johnson,Engineer,111003.38,IT,San Francisco
+816,Christina Hansen,Developer,42680.01,IT,San Francisco
+817,Dana Chan,Engineer,113501.44,IT,San Francisco
+822,Allison Day,Manager,47980.74,IT,San Francisco
+827,Kellie Walters,Manager,107589.69,IT,San Francisco
+839,Melissa Norris,Developer,90586.14,IT,San Francisco
+846,James Kirk,Consultant,128644.04,IT,San Francisco
+855,Melinda Morgan,Analyst,99770.23,IT,San Francisco
+856,Yvonne Baker,Analyst,49464.46,IT,San Francisco
+866,Sandra Werner,Consultant,87946.34,IT,San Francisco
+875,Danielle Cole,Developer,149718.98,IT,San Francisco
+882,David Dickerson,Consultant,49773.36,IT,San Francisco
+886,James Huynh,Manager,76137.49,IT,San Francisco
+895,Tim Mcguire,Developer,147927.27,IT,San Francisco
+900,Katherine Fernandez,Analyst,148473.42,IT,San Francisco
+904,Dominique Stone,Analyst,107269.13,IT,San Francisco
+905,Edward Freeman,Analyst,80724.77,IT,San Francisco
+906,Brianna Hughes,Consultant,43695.87,IT,San Francisco
+916,Jacob Rodriguez,Engineer,40170.8,IT,San Francisco
+917,Todd Sparks,Consultant,81608.56,IT,San Francisco
+922,David Henderson,Engineer,124786.91,IT,San Francisco
+933,Virginia Hendrix,Engineer,115038.05,IT,San Francisco
+938,Nicholas Huang,Consultant,146906.95,IT,San Francisco
+943,Christopher Robinson,Manager,57157.51,IT,San Francisco
+944,Beth Frey,Developer,97292.65,IT,San Francisco
+945,Stephanie Gillespie,Consultant,118756.38,IT,San Francisco
+950,Ashlee David,Analyst,109904.77,IT,San Francisco
+954,Jacqueline Lee,Consultant,69710.43,IT,San Francisco
+958,Angela James,Engineer,145327.73,IT,San Francisco
+962,Andrea Richards,Manager,147544.11,IT,San Francisco
+963,Marissa Bradley,Analyst,107252.98,IT,San Francisco
+970,Jessica Jones,Engineer,113158.3,IT,San Francisco
+987,Deborah Browning,Analyst,64944.83,IT,San Francisco
+989,Alex Hernandez,Engineer,73212.21,IT,San Francisco
+1,John Santiago,Engineer,75429.14,Marketing,Los Angeles
+3,Ricky Rogers,Developer,81006.51,Marketing,Los Angeles
+14,Ryan Wood,Analyst,140456.23,Marketing,Los Angeles
+15,Gary Davis,Consultant,70837.17,Marketing,Los Angeles
+17,Kiara Walsh,Analyst,60968.79,Marketing,Los Angeles
+21,Sonya Allen MD,Analyst,142665.95,Marketing,Los Angeles
+22,Timothy Cox,Analyst,124583.33,Marketing,Los Angeles
+27,Jennifer Fuller,Manager,84883.82,Marketing,Los Angeles
+28,James Sherman,Analyst,120389.38,Marketing,Los Angeles
+29,Amber Silva,Engineer,102322.75,Marketing,Los Angeles
+31,Andrea Randall,Analyst,125146.33,Marketing,Los Angeles
+43,Julie Blankenship,Manager,99205.39,Marketing,Los Angeles
+44,Dylan Dominguez,Consultant,104031.01,Marketing,Los Angeles
+46,Brenda Taylor,Consultant,80089.62,Marketing,Los Angeles
+79,Gregory Dean,Engineer,96970.28,Marketing,Los Angeles
+84,Meredith Jones,Developer,79729.0,Marketing,Los Angeles
+95,Joel Vincent,Manager,80539.78,Marketing,Los Angeles
+99,Catherine Sullivan,Manager,136438.0,Marketing,Los Angeles
+102,Anthony Barton,Developer,51640.14,Marketing,Los Angeles
+103,Jeffery Martin,Analyst,114972.47,Marketing,Los Angeles
+104,Kevin Mercer,Consultant,134344.81,Marketing,Los Angeles
+108,Jill English,Analyst,58928.25,Marketing,Los Angeles
+123,Karen Coffey,Manager,140328.78,Marketing,Los Angeles
+136,Matthew Hanson,Manager,128369.26,Marketing,Los Angeles
+144,Julie Brooks,Consultant,51512.48,Marketing,Los Angeles
+146,Michael White,Manager,112550.17,Marketing,Los Angeles
+150,Kimberly Campbell,Developer,56693.78,Marketing,Los Angeles
+151,Lorraine Garcia,Developer,122474.13,Marketing,Los Angeles
+162,Peggy Meyer,Consultant,58835.42,Marketing,Los Angeles
+175,Kathryn Peterson,Manager,66279.25,Marketing,Los Angeles
+177,Sydney Baker,Analyst,65443.95,Marketing,Los Angeles
+178,Melanie Schaefer,Analyst,76656.01,Marketing,Los Angeles
+180,Christy Jones,Engineer,49332.66,Marketing,Los Angeles
+181,Cody Ross,Engineer,88863.78,Marketing,Los Angeles
+185,Bradley Mullins,Analyst,94361.96,Marketing,Los Angeles
+188,Brenda Wilson,Engineer,55408.24,Marketing,Los Angeles
+196,Samuel Johnson,Analyst,40668.04,Marketing,Los Angeles
+199,Caroline Young,Consultant,42010.53,Marketing,Los Angeles
+200,Lance Williams,Analyst,79789.64,Marketing,Los Angeles
+201,Robert Ramirez,Engineer,71987.18,Marketing,Los Angeles
+205,John Schneider,Engineer,88925.64,Marketing,Los Angeles
+217,Kelly Wyatt,Analyst,102671.12,Marketing,Los Angeles
+220,Jennifer Garcia,Manager,102402.78,Marketing,Los Angeles
+221,Richard White,Manager,97611.83,Marketing,Los Angeles
+232,Sara Mcguire,Developer,113674.7,Marketing,Los Angeles
+244,Melinda Ruiz,Analyst,58744.39,Marketing,Los Angeles
+252,Tyler Brown,Engineer,55047.65,Marketing,Los Angeles
+256,Richard Martin,Manager,95638.88,Marketing,Los Angeles
+261,Jill Moyer,Consultant,110526.69,Marketing,Los Angeles
+269,Lisa Franklin,Analyst,134016.27,Marketing,Los Angeles
+272,Frank Martin,Consultant,148027.9,Marketing,Los Angeles
+273,Stephanie Pierce,Consultant,106981.27,Marketing,Los Angeles
+275,Marvin Dixon,Analyst,96593.06,Marketing,Los Angeles
+277,Brian Gray,Analyst,60372.01,Marketing,Los Angeles
+278,Victor Weeks,Manager,104484.53,Marketing,Los Angeles
+283,Michael Jackson,Developer,134125.6,Marketing,Los Angeles
+288,Alyssa Young,Consultant,132011.88,Marketing,Los Angeles
+290,Diana Gray,Engineer,73472.04,Marketing,Los Angeles
+297,Jesus Charles,Consultant,57599.83,Marketing,Los Angeles
+305,Chris Jones,Analyst,98172.76,Marketing,Los Angeles
+310,Jose Walls,Engineer,68908.6,Marketing,Los Angeles
+317,Tracy Mitchell,Developer,142159.89,Marketing,Los Angeles
+320,Travis Allen,Manager,86128.2,Marketing,Los Angeles
+323,Cassandra Arnold,Engineer,103874.67,Marketing,Los Angeles
+326,Katelyn Faulkner,Developer,48928.61,Marketing,Los Angeles
+331,Mary Turner,Engineer,56580.5,Marketing,Los Angeles
+332,Jeffery Foley,Consultant,118983.8,Marketing,Los Angeles
+335,Ian Nguyen,Analyst,69220.73,Marketing,Los Angeles
+340,James Stevens,Consultant,146917.9,Marketing,Los Angeles
+346,Douglas Mckenzie,Analyst,107675.74,Marketing,Los Angeles
+357,Misty Anderson,Manager,124207.65,Marketing,Los Angeles
+358,Troy Fuller,Engineer,85299.81,Marketing,Los Angeles
+367,Amanda Clark,Engineer,97212.73,Marketing,Los Angeles
+371,Sherry Johnston,Consultant,140447.44,Marketing,Los Angeles
+376,Jeff Welch,Analyst,55132.49,Marketing,Los Angeles
+380,Ronald Berry,Analyst,120047.92,Marketing,Los Angeles
+384,Vanessa Stewart,Consultant,127447.67,Marketing,Los Angeles
+388,John Alvarado,Engineer,149507.19,Marketing,Los Angeles
+396,Drew Cruz,Developer,62384.37,Marketing,Los Angeles
+397,Lisa Carter,Manager,45359.64,Marketing,Los Angeles
+408,April Taylor,Developer,62503.84,Marketing,Los Angeles
+417,Benjamin Townsend,Consultant,47600.4,Marketing,Los Angeles
+439,Danielle Brown,Manager,113094.66,Marketing,Los Angeles
+444,Natalie Young,Developer,133653.52,Marketing,Los Angeles
+450,Darren Watson,Consultant,42707.26,Marketing,Los Angeles
+451,Christine Arnold,Developer,72000.41,Marketing,Los Angeles
+457,Stephanie Richardson,Developer,96426.72,Marketing,Los Angeles
+462,Angela Simmons,Analyst,48974.92,Marketing,Los Angeles
+466,Gail Velasquez MD,Consultant,72307.39,Marketing,Los Angeles
+467,Matthew Smith,Manager,46907.57,Marketing,Los Angeles
+472,Michelle Smith,Analyst,123857.16,Marketing,Los Angeles
+474,Jason Smith,Engineer,149100.16,Marketing,Los Angeles
+475,Mark Green,Engineer,113501.52,Marketing,Los Angeles
+482,David Roberts III,Consultant,96251.42,Marketing,Los Angeles
+484,Karen Lewis,Developer,52370.92,Marketing,Los Angeles
+485,Lori Lang,Engineer,77427.91,Marketing,Los Angeles
+486,Benjamin Bryant,Developer,81921.9,Marketing,Los Angeles
+490,Nancy Jackson,Developer,61476.75,Marketing,Los Angeles
+498,Timothy Manning,Manager,53998.65,Marketing,Los Angeles
+500,Ryan Lopez,Manager,88642.2,Marketing,Los Angeles
+508,James Black,Engineer,60736.58,Marketing,Los Angeles
+511,Sherri Wilson,Engineer,78070.16,Marketing,Los Angeles
+520,Anthony Weaver,Manager,46592.19,Marketing,Los Angeles
+521,Larry Sanchez,Engineer,126908.01,Marketing,Los Angeles
+526,Michelle Bryant,Consultant,58881.05,Marketing,Los Angeles
+530,Laura Phillips,Developer,98004.54,Marketing,Los Angeles
+533,Loretta Espinoza,Manager,100209.85,Marketing,Los Angeles
+542,Michele Butler,Engineer,130495.83,Marketing,Los Angeles
+546,Dr. Matthew Harris,Analyst,97946.43,Marketing,Los Angeles
+548,Ashley Crawford,Engineer,103311.68,Marketing,Los Angeles
+555,Lauren Webb,Manager,104638.09,Marketing,Los Angeles
+566,Paul Fernandez,Engineer,139401.73,Marketing,Los Angeles
+568,Patrick Evans,Manager,59195.0,Marketing,Los Angeles
+590,Cheyenne Martin,Engineer,76713.57,Marketing,Los Angeles
+598,Lisa Cobb,Consultant,87226.79,Marketing,Los Angeles
+600,Charles Melton,Developer,140513.56,Marketing,Los Angeles
+610,Carolyn Choi,Consultant,132754.34,Marketing,Los Angeles
+612,Barbara Knox,Engineer,41987.3,Marketing,Los Angeles
+619,Alexander Hughes,Engineer,134208.39,Marketing,Los Angeles
+621,Christina Murphy,Engineer,102648.05,Marketing,Los Angeles
+622,Jamie Wilson,Engineer,92920.97,Marketing,Los Angeles
+623,Nathan Booker,Developer,90504.75,Marketing,Los Angeles
+625,Michele Soto,Analyst,119093.55,Marketing,Los Angeles
+627,Jessica Rasmussen,Analyst,138674.0,Marketing,Los Angeles
+629,Jasmine Brown,Developer,123673.05,Marketing,Los Angeles
+633,Nathaniel Chaney,Consultant,86314.13,Marketing,Los Angeles
+634,Amber Bass,Developer,95143.37,Marketing,Los Angeles
+646,Sean Lambert,Developer,92464.98,Marketing,Los Angeles
+648,Michael Hardy,Developer,108100.97,Marketing,Los Angeles
+650,Megan Fields,Analyst,86811.09,Marketing,Los Angeles
+655,Raymond Foster,Analyst,125916.92,Marketing,Los Angeles
+657,Dr. Elijah Oconnor,Analyst,60697.18,Marketing,Los Angeles
+658,Hannah Alexander,Analyst,118248.08,Marketing,Los Angeles
+659,Jennifer Roberts,Engineer,65770.26,Marketing,Los Angeles
+666,Joshua Daniels,Developer,110533.48,Marketing,Los Angeles
+670,Tina Perez,Developer,115453.27,Marketing,Los Angeles
+676,Mario Ponce,Consultant,108421.19,Marketing,Los Angeles
+683,Roy Johnston,Developer,50057.76,Marketing,Los Angeles
+685,Charles Harris,Developer,139554.81,Marketing,Los Angeles
+690,Nicholas Brown,Analyst,79302.46,Marketing,Los Angeles
+696,Mrs. Julia Gordon,Developer,77966.25,Marketing,Los Angeles
+702,Jared Martin,Analyst,130346.65,Marketing,Los Angeles
+704,Troy Perez,Developer,66406.18,Marketing,Los Angeles
+706,Kenneth Hanson,Consultant,64643.49,Marketing,Los Angeles
+709,Luke Walker,Analyst,54829.96,Marketing,Los Angeles
+713,Miss Dawn Fox,Consultant,92416.7,Marketing,Los Angeles
+716,Jonathan Rodriguez,Consultant,103244.96,Marketing,Los Angeles
+720,Leslie Walters,Manager,91734.5,Marketing,Los Angeles
+721,William Cooper,Developer,47054.26,Marketing,Los Angeles
+724,Leslie Lee,Developer,91672.56,Marketing,Los Angeles
+726,Lori Ellis,Analyst,94570.54,Marketing,Los Angeles
+728,Brian Clarke,Manager,96132.51,Marketing,Los Angeles
+729,Heather Weber,Analyst,65790.42,Marketing,Los Angeles
+733,Geoffrey Vincent,Developer,146162.44,Marketing,Los Angeles
+735,Lauren Moore,Analyst,110724.17,Marketing,Los Angeles
+740,Donna Johnson,Consultant,85054.69,Marketing,Los Angeles
+746,Christopher Hudson,Developer,110749.63,Marketing,Los Angeles
+749,Nicholas Johnson,Manager,147239.06,Marketing,Los Angeles
+758,Faith Scott MD,Consultant,70794.52,Marketing,Los Angeles
+761,Elizabeth Bailey,Engineer,54222.24,Marketing,Los Angeles
+766,Nicole Mullins,Engineer,68219.8,Marketing,Los Angeles
+771,Alexandra Lester,Manager,75343.99,Marketing,Los Angeles
+775,Dr. Jessica Taylor PhD,Consultant,47091.09,Marketing,Los Angeles
+781,Brian Moore,Developer,54816.91,Marketing,Los Angeles
+782,Erin Hoffman,Engineer,45987.59,Marketing,Los Angeles
+784,John Barnes,Manager,109324.43,Marketing,Los Angeles
+786,Gabriel Hamilton,Manager,79682.9,Marketing,Los Angeles
+794,Deanna Ross,Analyst,100759.83,Marketing,Los Angeles
+812,Lisa Flores,Engineer,140120.98,Marketing,Los Angeles
+818,Daisy Scott,Engineer,79422.4,Marketing,Los Angeles
+821,Stacey Wright,Consultant,138465.22,Marketing,Los Angeles
+824,Mark Hughes,Manager,122797.38,Marketing,Los Angeles
+826,Megan Shaw,Manager,127873.83,Marketing,Los Angeles
+829,Kevin Grant,Analyst,143312.8,Marketing,Los Angeles
+830,Michelle Sparks,Developer,47229.17,Marketing,Los Angeles
+835,Catherine Tate,Analyst,47941.33,Marketing,Los Angeles
+850,Jennifer White,Consultant,126663.76,Marketing,Los Angeles
+851,Brian Martinez,Consultant,62852.81,Marketing,Los Angeles
+852,Jennifer Maynard,Developer,110795.85,Marketing,Los Angeles
+859,Benjamin Compton,Developer,53958.98,Marketing,Los Angeles
+864,Brian Wallace PhD,Analyst,68189.51,Marketing,Los Angeles
+868,Anthony Bowman,Developer,123383.75,Marketing,Los Angeles
+869,Madison Bird,Developer,137444.36,Marketing,Los Angeles
+876,John Richards,Consultant,139782.34,Marketing,Los Angeles
+879,David Bradshaw,Consultant,115805.52,Marketing,Los Angeles
+888,Crystal Meyer,Developer,148664.72,Marketing,Los Angeles
+897,Mark Johnson,Analyst,48339.07,Marketing,Los Angeles
+907,Daniel Barton,Engineer,141300.77,Marketing,Los Angeles
+919,Timothy Wood,Analyst,81406.95,Marketing,Los Angeles
+921,Mark Peters,Engineer,99952.16,Marketing,Los Angeles
+927,Jennifer Gonzalez,Analyst,92750.6,Marketing,Los Angeles
+928,David Mueller,Engineer,42820.72,Marketing,Los Angeles
+941,Samantha Hebert,Manager,55701.37,Marketing,Los Angeles
+949,Shelby White,Analyst,101891.97,Marketing,Los Angeles
+957,Victor Price,Engineer,122296.18,Marketing,Los Angeles
+964,Karen Maldonado,Engineer,138593.81,Marketing,Los Angeles
+968,Jeffrey Benjamin,Analyst,47064.18,Marketing,Los Angeles
+981,Kenneth Medina,Consultant,103283.28,Marketing,Los Angeles
+985,Jessica Herrera,Engineer,144716.78,Marketing,Los Angeles
+988,Anthony Schroeder,Engineer,55703.57,Marketing,Los Angeles
+992,Anthony Mendoza,Manager,77502.45,Marketing,Los Angeles
+998,Collin Schneider,Developer,97279.0,Marketing,Los Angeles
+999,Kari Hernandez,Developer,82887.86,Marketing,Los Angeles
+2,Deborah Murray,Engineer,145726.55,Operations,Seattle
+8,Tanya King,Engineer,135356.02,Operations,Seattle
+12,Candice Smith,Engineer,110120.03,Operations,Seattle
+25,Karen Williams,Consultant,112567.59,Operations,Seattle
+32,Jason Obrien,Engineer,107650.78,Operations,Seattle
+42,Lynn Bruce,Manager,139639.98,Operations,Seattle
+48,Peter Moore,Manager,103561.94,Operations,Seattle
+52,John Dickerson,Analyst,86766.71,Operations,Seattle
+55,Maria Cruz,Consultant,103697.06,Operations,Seattle
+57,Regina Hudson,Developer,139588.72,Operations,Seattle
+61,Julie Smith,Manager,78508.34,Operations,Seattle
+67,Ashley Howell,Consultant,106326.46,Operations,Seattle
+76,Meagan Douglas,Engineer,78451.43,Operations,Seattle
+82,Brian Estrada,Developer,78763.19,Operations,Seattle
+83,Kaitlyn Stewart,Manager,118861.42,Operations,Seattle
+86,Erik Davis,Engineer,78808.21,Operations,Seattle
+93,Kimberly Gonzalez,Developer,49809.03,Operations,Seattle
+96,David Pitts,Analyst,41301.45,Operations,Seattle
+98,Catherine Daniels,Developer,103366.2,Operations,Seattle
+111,Michelle Hernandez,Consultant,119800.33,Operations,Seattle
+114,Stephanie Maxwell,Consultant,44889.89,Operations,Seattle
+115,Melanie Walker,Developer,113224.5,Operations,Seattle
+117,Matthew Peters,Engineer,81911.19,Operations,Seattle
+118,Tonya Martin,Developer,129267.61,Operations,Seattle
+134,Michael Rivers,Manager,129925.58,Operations,Seattle
+139,Nathan Campbell,Analyst,57613.85,Operations,Seattle
+142,Laura Johnson,Manager,136346.66,Operations,Seattle
+161,Linda Wilson,Developer,131052.03,Operations,Seattle
+165,Melissa Ramos,Manager,48495.59,Operations,Seattle
+166,Melissa Smith,Consultant,140341.05,Operations,Seattle
+171,Joshua Simmons,Analyst,57274.67,Operations,Seattle
+189,Kristin Mercer,Manager,144230.23,Operations,Seattle
+191,Derrick Moses,Developer,90361.84,Operations,Seattle
+192,Alejandra Coleman,Analyst,63004.62,Operations,Seattle
+194,Patrick Wells,Manager,115258.25,Operations,Seattle
+198,Susan Crawford,Consultant,127468.34,Operations,Seattle
+202,Aaron Bryant,Manager,115019.92,Operations,Seattle
+203,Calvin Barnes,Manager,127423.33,Operations,Seattle
+204,Ms. Deborah Howard,Consultant,90915.32,Operations,Seattle
+211,Mark Wilson,Engineer,99320.69,Operations,Seattle
+216,Beth Leach,Engineer,41358.19,Operations,Seattle
+223,Alice Anderson,Developer,45957.18,Operations,Seattle
+229,Edwin Miller,Engineer,105061.71,Operations,Seattle
+242,Donald Lee,Developer,145495.52,Operations,Seattle
+249,Christopher Villarreal,Consultant,51469.18,Operations,Seattle
+257,Elizabeth Harrison,Manager,119283.36,Operations,Seattle
+259,Joseph Martinez,Analyst,58959.15,Operations,Seattle
+262,Donald Andrade,Consultant,144159.44,Operations,Seattle
+264,Kevin Nicholson,Manager,112676.63,Operations,Seattle
+268,Marissa Diaz,Engineer,96796.36,Operations,Seattle
+279,David Walker,Consultant,44493.47,Operations,Seattle
+281,Joseph Davis,Engineer,126722.18,Operations,Seattle
+284,Dylan Wilson,Analyst,82337.68,Operations,Seattle
+286,Tiffany Stevens,Analyst,128166.85,Operations,Seattle
+294,Brandon Roberts,Engineer,134031.73,Operations,Seattle
+308,Robert Pena,Consultant,106397.38,Operations,Seattle
+311,Alexis Jenkins,Developer,60982.89,Operations,Seattle
+325,William Hartman,Manager,104920.42,Operations,Seattle
+329,Joseph Lamb,Engineer,88468.43,Operations,Seattle
+338,April Galloway,Engineer,143671.2,Operations,Seattle
+341,Dr. Craig Lee,Engineer,113440.53,Operations,Seattle
+345,Summer Cooley,Analyst,57253.56,Operations,Seattle
+348,Erika Cooper,Consultant,59070.57,Operations,Seattle
+354,Rodney Williams,Analyst,91463.81,Operations,Seattle
+355,Mary Lewis,Consultant,92229.16,Operations,Seattle
+361,Cody Bruce,Analyst,64106.5,Operations,Seattle
+381,Tracy Phillips,Developer,147414.27,Operations,Seattle
+382,Martha Hunter,Manager,144919.27,Operations,Seattle
+390,Christina Bell,Engineer,138624.67,Operations,Seattle
+392,William Walsh,Engineer,114790.17,Operations,Seattle
+411,George Raymond,Manager,109566.29,Operations,Seattle
+413,Brittany Gonzalez,Manager,95930.88,Operations,Seattle
+414,Jennifer Cox,Developer,83767.94,Operations,Seattle
+416,Christopher Cabrera,Engineer,47812.17,Operations,Seattle
+420,Robert Gomez,Engineer,146838.2,Operations,Seattle
+422,William Smith,Consultant,115367.87,Operations,Seattle
+424,Timothy Wiggins,Engineer,83977.92,Operations,Seattle
+425,Rebecca Harris,Manager,56840.13,Operations,Seattle
+427,Mrs. Mary Jackson,Engineer,43085.08,Operations,Seattle
+431,Ricardo Allen,Developer,105940.97,Operations,Seattle
+432,Rebecca Ponce,Consultant,149051.77,Operations,Seattle
+436,Dawn Wood,Analyst,138022.2,Operations,Seattle
+442,Eduardo Johnson,Manager,86712.91,Operations,Seattle
+445,Larry Gay,Developer,79274.46,Operations,Seattle
+446,Frank Adams,Engineer,118602.57,Operations,Seattle
+448,Evelyn Adkins,Manager,129365.98,Operations,Seattle
+453,Connie White,Analyst,100795.54,Operations,Seattle
+454,Anne Johnson,Manager,79449.51,Operations,Seattle
+456,Hailey Hernandez,Consultant,60176.19,Operations,Seattle
+463,Jennifer Boyer,Developer,82259.5,Operations,Seattle
+473,Christy Salazar,Engineer,114936.92,Operations,Seattle
+478,Dr. Justin Smith,Developer,92135.26,Operations,Seattle
+479,Kayla Costa,Engineer,131944.84,Operations,Seattle
+492,Danielle Patterson,Engineer,126677.63,Operations,Seattle
+494,Sheila Rivera,Consultant,140203.58,Operations,Seattle
+496,Dawn Bradley,Developer,53578.22,Operations,Seattle
+501,Julie Hamilton,Developer,75420.59,Operations,Seattle
+507,Marc Callahan,Analyst,83632.35,Operations,Seattle
+517,Erin Brown,Analyst,40817.57,Operations,Seattle
+519,Brian Wright,Manager,91457.51,Operations,Seattle
+522,Daniel Beck,Engineer,116225.92,Operations,Seattle
+525,Ian Martinez,Engineer,145229.44,Operations,Seattle
+531,Kelly Fischer,Consultant,112186.14,Operations,Seattle
+535,Marco Kennedy,Engineer,137861.16,Operations,Seattle
+537,Peter Dodson,Consultant,40878.68,Operations,Seattle
+539,Amanda Wade,Analyst,98074.25,Operations,Seattle
+541,Carrie Buck,Engineer,143004.86,Operations,Seattle
+551,Cassie Buckley MD,Developer,70468.86,Operations,Seattle
+553,Mary Adams,Consultant,111718.65,Operations,Seattle
+556,Michael Johnson,Consultant,46793.52,Operations,Seattle
+557,Elizabeth Cooper,Consultant,92451.02,Operations,Seattle
+559,Jose Thompson,Consultant,76305.38,Operations,Seattle
+564,Amy Brandt,Engineer,102462.19,Operations,Seattle
+571,Thomas Abbott,Consultant,61408.82,Operations,Seattle
+577,David Miller,Consultant,54311.93,Operations,Seattle
+584,Melissa Hernandez,Consultant,100542.7,Operations,Seattle
+585,Jerry Hernandez,Analyst,83323.3,Operations,Seattle
+586,Mariah Lopez,Engineer,60195.72,Operations,Seattle
+595,Paige Jackson,Manager,44916.57,Operations,Seattle
+604,Kevin Anderson,Manager,126135.82,Operations,Seattle
+606,Joseph Anderson,Analyst,65657.17,Operations,Seattle
+613,Elizabeth Jordan,Manager,50426.08,Operations,Seattle
+614,Diane Cox,Consultant,129806.76,Operations,Seattle
+615,Katelyn Robinson,Analyst,130098.23,Operations,Seattle
+637,Jodi Gill,Engineer,121633.7,Operations,Seattle
+645,Jason Gray,Developer,89006.71,Operations,Seattle
+647,David Martinez,Analyst,77011.81,Operations,Seattle
+662,Andrea Nicholson,Analyst,100751.82,Operations,Seattle
+667,Amanda Anderson,Consultant,105196.53,Operations,Seattle
+671,Darrell Williams,Manager,70545.68,Operations,Seattle
+679,Austin Flores,Developer,57972.8,Operations,Seattle
+689,Randy Graham,Manager,108290.97,Operations,Seattle
+691,Brandon Smith,Manager,114316.07,Operations,Seattle
+692,Michael Reyes,Manager,78034.29,Operations,Seattle
+695,Jennifer Thomas,Consultant,50902.57,Operations,Seattle
+698,Hunter Baker,Consultant,48063.52,Operations,Seattle
+703,Lisa Church,Manager,144292.05,Operations,Seattle
+712,Anna Jensen,Manager,53864.1,Operations,Seattle
+714,Timothy Gillespie,Engineer,42026.43,Operations,Seattle
+717,Alan York,Developer,79680.58,Operations,Seattle
+718,Anthony Garcia,Manager,81385.75,Operations,Seattle
+730,Nicole Lamb,Consultant,50356.72,Operations,Seattle
+731,Jennifer Sanders,Consultant,56703.32,Operations,Seattle
+732,Francisco Munoz,Consultant,135332.77,Operations,Seattle
+736,Leon Lynch,Manager,84201.04,Operations,Seattle
+742,Anthony Gilbert,Developer,135199.98,Operations,Seattle
+745,Timothy Jones,Developer,51121.74,Operations,Seattle
+753,Kathleen Duffy,Engineer,57880.4,Operations,Seattle
+759,Mary Wilson,Consultant,125490.68,Operations,Seattle
+769,William Duncan,Consultant,83824.14,Operations,Seattle
+772,Anthony Smith,Analyst,133571.3,Operations,Seattle
+774,Valerie Harris,Engineer,89840.79,Operations,Seattle
+778,Samantha Johnson,Developer,112547.5,Operations,Seattle
+795,Bradley Williams,Consultant,147898.94,Operations,Seattle
+797,David Byrd,Analyst,116954.14,Operations,Seattle
+805,Susan Carroll,Consultant,122355.36,Operations,Seattle
+807,Amanda Matthews,Consultant,48289.24,Operations,Seattle
+814,Kerri Coleman,Developer,110322.66,Operations,Seattle
+819,Debra West,Manager,46499.35,Operations,Seattle
+820,Adam Gay,Engineer,106328.1,Operations,Seattle
+823,Michael Edwards,Engineer,147810.8,Operations,Seattle
+831,Jennifer Stafford,Analyst,125411.9,Operations,Seattle
+838,Kimberly Burke,Consultant,108904.89,Operations,Seattle
+844,Jessica Simmons,Consultant,105733.39,Operations,Seattle
+845,Linda Moore,Manager,122547.27,Operations,Seattle
+847,Julie Morris,Manager,94623.21,Operations,Seattle
+848,Kelly Brown,Developer,53751.29,Operations,Seattle
+853,Mary Johnson,Manager,56131.01,Operations,Seattle
+857,Cheryl Potter,Manager,95615.73,Operations,Seattle
+858,Alexis Wolfe,Analyst,139992.92,Operations,Seattle
+861,Kristen Kim,Engineer,48656.05,Operations,Seattle
+865,Thomas Fisher,Consultant,114202.9,Operations,Seattle
+872,Eric Davis,Developer,147073.7,Operations,Seattle
+873,Samuel Nicholson DDS,Analyst,111423.44,Operations,Seattle
+880,Ashley Olson,Consultant,74882.23,Operations,Seattle
+883,Daniel Smith,Engineer,61645.51,Operations,Seattle
+884,David Mason,Engineer,137379.86,Operations,Seattle
+885,Jane Jackson,Engineer,130421.74,Operations,Seattle
+889,Ruth Singh,Consultant,93910.01,Operations,Seattle
+890,Taylor Hart,Engineer,97095.52,Operations,Seattle
+891,Laura Wilson,Developer,66219.36,Operations,Seattle
+892,Kelly Kelly,Consultant,80243.56,Operations,Seattle
+893,Stephanie Yoder,Developer,49180.46,Operations,Seattle
+896,Emily Williams,Developer,45133.75,Operations,Seattle
+901,Melissa Garcia,Analyst,106878.22,Operations,Seattle
+902,Jeffrey Clark,Analyst,43504.67,Operations,Seattle
+912,Antonio Santos,Engineer,143461.42,Operations,Seattle
+914,Bryan Mitchell,Developer,118053.38,Operations,Seattle
+925,Melanie Craig,Developer,144365.8,Operations,Seattle
+939,Amanda Clark,Consultant,73452.2,Operations,Seattle
+946,Sara Nichols,Consultant,138632.69,Operations,Seattle
+948,Michelle Combs,Analyst,122157.63,Operations,Seattle
+953,Kevin Walters,Manager,130651.47,Operations,Seattle
+955,Steven Hart,Analyst,79580.74,Operations,Seattle
+960,Melinda Peters,Manager,61348.41,Operations,Seattle
+966,George Taylor,Consultant,72515.97,Operations,Seattle
+972,Megan Gonzalez,Manager,57959.97,Operations,Seattle
+973,Daniel Villegas,Developer,70001.13,Operations,Seattle
+978,Michael Sanders,Consultant,61294.53,Operations,Seattle
+982,Donna Knapp,Developer,94017.81,Operations,Seattle
+983,Elizabeth Stein,Consultant,53533.34,Operations,Seattle
+995,Ryan West,Consultant,58933.28,Operations,Seattle
+1000,Mr. Kenneth Thomas II,Analyst,69599.09,Operations,Seattle
